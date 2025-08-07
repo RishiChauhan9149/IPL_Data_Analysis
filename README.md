@@ -49,7 +49,7 @@ _Include a screenshot or GIF of the dashboard here if possible_
 ## 👩‍💻 Developed By
 **Priya Sahu**  
 Final Year B.Tech | Data Analyst Enthusiast  
-LinkedIn: http://www.linkedin.com/in/priyasahu12
+LinkedIn: http://www.linkedin.com/in/rishi-chauhan-6r
 
 ---
 
